@@ -47,12 +47,11 @@ Item {
         anchors.fill: parent
         anchors.margins: 3
         color: '#323232'
-
-    } // EO Background
+    }
 
     AlgScrollView {
         id: scrollView
-        anchors.fill: parent
+        anchors.fill: background
         anchors.margins: 8
 
         ColumnLayout {
