@@ -1,0 +1,7 @@
+{
+    "description": "Brad's Kelvin Color Painter Plugin: This plugin allows the user to add a \"Kelvin Color to RGB\" reference dock to Painter UI. This dock displays an RGB color swatch, generated from a Temperture slider (Kelvin). These colors are particularly useful as emissive color reference. Color is a close approximation, and presets represent a general average. Actual colors vary greatly. Credit to Tanner Helland's Kelvin to RGB algorithm, as this conversion is adapted from his <a href=\"http://www.tannerhelland.com/4435/convert-temperature-rgb-algorithm-code/\">Algorithm</a>.",
+    "url": "http://bradfolio.com/",
+    "version": "1.0.0",
+    "license": "<a href=\"https://opensource.org/licenses/MIT\">MIT</a>",
+    "min_api_version": "1.1.0"
+}
