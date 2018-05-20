@@ -1,7 +1,9 @@
 # painter-plugin-kelvin-color
 Substance Painter Plugin: Kelvin Color
 
-Brad's Kelvin Color Painter Plugin: This plugin allows the user to add a __Kelvin Color to RGB__ reference dock to Painter UI. This dock displays an RGB color swatch, generated from a Temperture slider (Kelvin). These colors are particularly useful as emissive color reference. Color is a close approximation, and presets represent a general average. Actual colors vary greatly. Credit to Tanner Helland's Kelvin to RGB algorithm, as this conversion is adapted from his work (http://www.tannerhelland.com/4435/convert-temperature-rgb-algorithm-code/). 
+Kelvin Color Painter Plugin: This plugin allows the user to add a __Kelvin Color to RGB__ reference dock to the Painter UI.
+This dock displays an RGB color swatch, generated from a Temperture slider (Kelvin). These colors are particularly useful as emissive color reference. Color is a close approximation, and represent a general average. Actual colors vary greatly.
+Credit to Tanner Helland's Kelvin to RGB algorithm, as this conversion is adapted from his work here: http://www.tannerhelland.com/4435/convert-temperature-rgb-algorithm-code/. 
 
 ## Installation
 
